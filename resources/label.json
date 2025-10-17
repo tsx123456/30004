@@ -8,7 +8,6 @@
             "Previously loaded games load faster from browser cache!",
             "For the ultimate game experience, use Safari or Chrome!"
         ],
-        "begin_login":"Logging in",
         "login_fail": "Login failed, system retrying... (%st time)",
         "loading_game_res": "Loading game resourcese",
         "loading_tips3": "Update to latest device update for best gaming experience!",
@@ -24,7 +23,7 @@
             "Se nos está a visitar pela primeira vez, a transferência pode demorar um pouco.",
             "Recomendamos a transferência por Wi-Fi para jogar em HD!"
         ],
-        "begin_login":"A iniciar sessão",
+		"begin_login":"A iniciar sessão",
         "login_fail": "Falha ao efetuar a transação.A voltar a tentar a tentar...(#%.ᵃ vez)",
         "loading_game_res": "A ler informações",
         "loading_tips3": "Atualize para o dispositivo mais recente para desfrutar da melhor experiência de jogo!",
